@@ -64,8 +64,27 @@ body::-webkit-scrollbar-thumb {
   line-height: 24px;
 }
 
-.nav-item:last-child {
+.footer {
+  width: 100%;
+  height: fit-content;
   margin-top: auto;
+
+  align-items: center;
+  text-align: center;
+  vertical-align: middle;
+
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer a {
+  color: #FFFFFF;
 }
 
 .nav-item img {
