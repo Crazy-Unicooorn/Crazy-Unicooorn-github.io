@@ -204,6 +204,8 @@ footer a {
 
 .nav-item:hover {
   background-color: var(--dark-secondary);
+  padding: 0px 8px 0px 12px;
+  font-weight: 600;
 }
 
 .separator {
